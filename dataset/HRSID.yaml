@@ -1,0 +1,10 @@
+# dataset path
+train: G:/yk/dataset/HRSID/HRSID_YOLO/images/train
+val: G:/yk/dataset/HRSID/HRSID_YOLO/images/val
+test: G:/yk/dataset/HRSID/HRSID_YOLO/images/test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ship']
